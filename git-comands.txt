@@ -1,5 +1,10 @@
 git clone https..... - викачати репозиторій з github 
 git remote add origin https://github.com/LiMar17/Study.git - під'єднатись до реп 
+git add . - додати всі файли для збереження
+git add . && git commit -m "" && git push - добавити всі файли + зробити коміт + закінути його на github 
+git branch (develop) - створити нову гілку для роботи 
+git checkout (main/develop) - перейти на іншу гілку 
+git status - передивитись всі зміни в реп
 
 Консольні команди 
 1. ls -a — показати файли(+ невидимі "-a") 
